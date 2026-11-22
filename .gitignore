@@ -1,0 +1,6 @@
+*.pt
+*.zip
+datasets/
+runs/*/weights/
+.DS_Store
+.ipynb_checkpoints/
